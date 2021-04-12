@@ -1,0 +1,8 @@
+.header {
+    height: 80px;
+    background-color: #bfabcd;
+
+    display: flex;
+    justify-content: flex-end;         /*росположение блока по оси Х*/
+    align-items: center;               /*росположение блока по оси У*/
+}

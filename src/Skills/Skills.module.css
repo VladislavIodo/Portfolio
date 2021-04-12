@@ -1,0 +1,18 @@
+.skillsBlock {
+    height: 100vh;
+    background-color: #cacdaa;
+}
+
+.skillsContainer {
+    flex-direction: column;
+    justify-content: flex-start;     /*росположение блока по оси Х*/
+}
+
+.title {
+    background-color: #e2d6d6;
+}
+
+.skills {
+    border: 1px solid;
+    width: 100%;
+}

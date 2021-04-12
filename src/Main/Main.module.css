@@ -1,0 +1,18 @@
+.mainBlock {
+    height: 100vh;     /*vh-видимоя высота экрана*/
+    background-color: #f1d3c5;
+
+}
+
+
+
+.meet {
+    width: 300px;
+    background-color: #e2dfdf;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #e2dfdf;
+}

@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;      /*старая запись отцентрирования элемента  0 - отступ свери и снизу, авто- по бокам*/
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    /*расположение по краям блока*/
+}
