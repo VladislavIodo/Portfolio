@@ -7,4 +7,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;    /*расположение по краям блока*/
+
+    flex-wrap: wrap;     /*Чтобы контент не сжимался, а перестраивался друг под друга*/
 }
