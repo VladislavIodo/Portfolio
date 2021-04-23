@@ -3,15 +3,17 @@ import './App.css';
 import Header from "./Header/Header";
 import Main from "./Main/Main";
 import Skills from "./Skills/Skills";
-import MyWork from "./MyWork/MyWork";
+import {MyWorks} from "./MyWorks/MyWorks";
+import Contacts from "./Contacts/Contacts";
 
 function App() {
     return (
         <div className="App">
             <Header/>
             <Main/>
-            <Skills />
-            <MyWork />
+            <Skills/>
+            <MyWorks />
+            <Contacts />
         </div>
     );
 }

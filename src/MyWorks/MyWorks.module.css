@@ -1,14 +1,21 @@
-.myWorkBlock {
+.myWorksBlock {
     height: 100vh;     /*vh-видимоя высота экрана*/
     background-color: #c9bbd5;
-
 }
 
 .title {
     background-color: #e2d6d6;
 }
 
-.myWorkContainer {
+.myWorksContainer {
     flex-direction: column;
     justify-content: flex-start;     /*росположение блока по оси Х*/
+}
+
+.MyWorks {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }

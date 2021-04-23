@@ -1,0 +1,21 @@
+.contactsBlock {
+    height: 100vh;     /*vh-видимоя высота экрана*/
+    background-color: #bbd5be;
+}
+
+.contactsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: #e2d6d6;
+}
+
+.contacts {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
