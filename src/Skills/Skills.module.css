@@ -16,6 +16,9 @@
     border: 1px solid;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
+    height: 450px;
+    align-items: center;
+    max-height: 600px;
 }

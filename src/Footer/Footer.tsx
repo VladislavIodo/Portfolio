@@ -6,15 +6,14 @@ function Footer() {
     return (
         <div className={style.contactsBlock}>
             <div className={`${styleContainer.container} ${style.contactsContainer}`}>
-                <h2 className={style.title}>Contacts</h2>
+                <h2 className={style.title}>Iodo Vladislav</h2>
                 <div className={style.contacts}>
-                    <form action="" className={style.form}>
-                        <input type="text"/>
-                        <input type="text"/>
-                        <textarea name="" ></textarea>
-                    </form>
+                    <div>FaceBook</div>
+                    <div>Twitter</div>
+                    <div>Linkedin</div>
+                    <div>Pinterest</div>
                 </div>
-                <button>Send</button>
+               <div>© 2019 beingeorge, All Rights Reserved.</div>
             </div>
         </div>
     );
