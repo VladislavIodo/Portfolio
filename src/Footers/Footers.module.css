@@ -1,5 +1,5 @@
 .contactsBlock {
-    height: 40vh;     /*vh-видимоя высота экрана*/
+    height: 20vh;     /*vh-видимоя высота экрана*/
     background-color: #d5ccbb;
     display: flex;
     flex-wrap: wrap;
@@ -16,12 +16,12 @@
 
 .contacts {
     border: 1px solid;
-    /*width: 100%;*/
+    width: 40vh;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 280px;
-    max-width: 280px;
-    height: 65px;
-    max-height: 100px;
+    /*width: 280px;*/
+    /*max-width: 280px;*/
+    /*height: 65px;*/
+    /*max-height: 100px;*/
 }
