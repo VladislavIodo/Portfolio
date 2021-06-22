@@ -1,11 +1,11 @@
-.contactsBlock {
+.footersBlock {
     height: 20vh;     /*vh-видимоя высота экрана*/
     background-color: #d5ccbb;
     display: flex;
     flex-wrap: wrap;
 }
 
-.contactsContainer {
+.footersContainer {
     flex-direction: column;
     justify-content: space-between;
 }
@@ -14,14 +14,14 @@
     background-color: #e2d6d6;
 }
 
-.contacts {
+.footers {
     border: 1px solid;
-    width: 40vh;
+    /*width: 55vh;*/
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    /*width: 280px;*/
-    /*max-width: 280px;*/
-    /*height: 65px;*/
-    /*max-height: 100px;*/
+    width: 250px;
+    max-width: 280px;
+    height: 50px;
+    max-height: 100px;
 }

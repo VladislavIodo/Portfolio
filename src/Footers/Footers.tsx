@@ -5,10 +5,10 @@ import Footer from "./Footer/Footer";
 
 function Footers() {
     return (
-        <div className={style.contactsBlock}>
-            <div className={`${styleContainer.container} ${style.contactsContainer}`}>
-                <h2 className={style.title}>Iodo Vladislav</h2>
-                <div className={style.contacts}>
+        <div className={style.footersBlock}>
+            <div className={`${styleContainer.container} ${style.footersContainer}`}>
+                <div className={style.title}>Iodo Vladislav</div>
+                <div className={style.footers}>
                     <Footer/>
                     <Footer/>
                     <Footer/>

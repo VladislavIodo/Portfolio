@@ -1,16 +1,16 @@
 .footer {
-    /*width: 250px;*/
+    width: 50px;
     background-color: #b3afaf;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    /*height: 140px;*/
-    /*max-height: 150px;*/
+    height: 50px;
+    max-height: 150px;
 }
 
 .icon {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background-color: #d2d0d0;
 }
